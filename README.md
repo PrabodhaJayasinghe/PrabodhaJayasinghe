@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabodhajayasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="prabodhajayasinghe" /> </p>
 
-- 🔭 I’m currently learning **Full stack development**
-
 - 🌱 I’m currently learning **React, Tailwind CSS, NodeJS**
 
 - 👯 I’m looking to collaborate on **Full stack development projects**
